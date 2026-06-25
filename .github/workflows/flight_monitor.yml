@@ -1,4 +1,1 @@
-on:
-  schedule:
-    - cron: '0 7 * * 5'
-  workflow_dispatch:
+python main.py
