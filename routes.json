@@ -1,0 +1,13 @@
+{
+  "routes": [
+    {"from": "CAN", "to": "GRU", "city": "圣保罗"},
+    {"from": "CAN", "to": "EZE", "city": "布宜诺斯艾利斯"},
+    {"from": "CAN", "to": "NRT", "city": "东京"},
+    {"from": "CAN", "to": "HND", "city": "东京"},
+    {"from": "CAN", "to": "ICN", "city": "首尔"},
+    {"from": "CAN", "to": "HAN", "city": "河内"},
+    {"from": "CAN", "to": "LAX", "city": "洛杉矶"},
+    {"from": "CAN", "to": "JFK", "city": "纽约"},
+    {"from": "CAN", "to": "SVO", "city": "莫斯科"}
+  ]
+}
