@@ -25,7 +25,7 @@ RECEIVER_EMAIL = os.getenv("RECEIVER_EMAIL")
 # =========================
 
 with open("routes.json", "r", encoding="utf-8") as f:
-routes = json.load(f)["routes"]
+    routes = json.load(f)["routes"]
 
 # =========================
 
