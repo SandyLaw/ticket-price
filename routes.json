@@ -2,6 +2,8 @@
   "routes": [
     {"from": "CAN", "to": "NRT", "city": "东京"},
     {"from": "CAN", "to": "ICN", "city": "首尔"},
-    {"from": "CAN", "to": "LAX", "city": "洛杉矶"}
+    {"from": "CAN", "to": "LAX", "city": "洛杉矶"},
+    {"from": "CAN", "to": "GRU", "city": "圣保罗"},
+    {"from": "CAN", "to": "EZE", "city": "布宜诺斯艾利斯"}
   ]
 }
