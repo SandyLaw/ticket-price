@@ -1,11 +1,4 @@
-name: Test Actions
-
 on:
+  schedule:
+    - cron: '0 7 * * 5'
   workflow_dispatch:
-
-jobs:
-  test:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Say Hello
-        run: echo "GitHub Actions is working"
